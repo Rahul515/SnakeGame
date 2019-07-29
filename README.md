@@ -1,2 +1,2 @@
 # SnakeGame
-Recreated the classic SnakeGame on Python
+Recreated the classic SnakeGame on Python using its Integerated Development Environment combined with the Python module Pygame to implement graphics. To run the game, you require Pygame and python 2.7.14 on your computer which are available on the repository. The application maintains it's own local database to store the top 3 highscores of users. Several elements were added to the game to make the classic Snake Game more interesting and challenging.
